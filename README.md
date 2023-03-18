@@ -20,4 +20,4 @@ The workshop will introduce MANY code examples on how to use Tablecloth.
 
 > This online free workshop is part of the <a href="https://www.reclojure.org/#workshops" target="_blank">re:Clojure 2021 series of pre-conference workshops.</a>     
 > Check out the <a href="https://www.youtube.com/watch?v=VD17eB6vVto&t=1093s&ab_channel=LondonClojurians" target="_blank"> full workshop youtube video</a>  
-> Pokemon Datasets used in this workshop: <a href="https://www.kaggle.com/rounakbanik/pokemon/version/1" target="_blank">The Complete Pokemon Dataset</a>  <a href="https://www.kaggle.com/jonathanbouchet/pokemon-battles/data?select=combats.csv " target="_blank">Pokemon Combats Dataset</a> 
+> Pokemon Datasets used in this workshop: <a href="https://www.kaggle.com/rounakbanik/pokemon/version/1" target="_blank">The Complete Pokemon Dataset</a> & <a href="https://www.kaggle.com/jonathanbouchet/pokemon-battles/data?select=combats.csv " target="_blank">Pokemon Combats Dataset</a> 
