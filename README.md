@@ -8,7 +8,7 @@
 > Linkedin: <a href="https://www.linkedin.com/in/ladymey/" target="_blank">Mey Beisaron</a> 
 
 ### Gotta catch 'em all: deep dive into Tablecloth:
-> Watch the talk on Youtube: [TBD]   
+> Watch the <a href="https://www.youtube.com/watch?v=a0T_d_N7wbg" target="_blank">the talk on Youtube</a>!
 > Check out the <a href="https://github.com/techascent/tech.ml.dataset" target="_blank">tech.ml.dataset repo</a> for more digging      
 > Check out <a href="https://www.youtube.com/watch?v=5mUGu4RlwKE&ab_channel=LondonClojurians" target="_blank">this talk</a> to hear about High Performance Data With Clojure from Chris Nuernberger himself   
 > Check out the <a href="https://github.com/scicloj/tablecloth" target="_blank">tablecloth repo</a> & <a href="https://scicloj.github.io/tablecloth" target="_blank">documentation</a> to get things done! 
